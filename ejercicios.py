@@ -96,7 +96,6 @@ peso = input("Ingrese su peso en kg : ")
 altura = float(altura)
 peso = int(peso)
 
-
 indice_corporal = peso/(altura**2)
 
 print (f"Su indice de masa corporal es : {indice_corporal}")
